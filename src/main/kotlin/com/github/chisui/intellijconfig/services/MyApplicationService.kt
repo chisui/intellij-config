@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.chisui.intellijconfig.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.chisui.intellijconfig.MyBundle
 
 class MyApplicationService {
 
